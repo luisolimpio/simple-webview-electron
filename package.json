@@ -1,10 +1,10 @@
 {
   "name": "webview-simple-electron",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just a overlay webview window",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron main.js"
   },
   "keywords": [],
   "author": "",
