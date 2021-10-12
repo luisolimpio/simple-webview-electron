@@ -15,6 +15,6 @@
   "author": "Luis Olimpio",
   "license": "ISC",
   "dependencies": {
-    "electron": "^9.3.1"
+    "electron": "^11.5.0"
   }
 }
